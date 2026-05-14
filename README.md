@@ -123,8 +123,8 @@ languages:    Spanish (native) · English (advanced)
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.hackclub.dev/api?username=RichardDebugFile&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=RichardDebugFile&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+  <img height="180" src="https://gh-readme-stats.vercel.app/api?username=RichardDebugFile&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=RichardDebugFile&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
 </p>
 
 <p align="center">
