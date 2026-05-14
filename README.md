@@ -145,30 +145,68 @@ languages:    Spanish (native) · English (advanced)
 <!-- ============== FEATURED PROJECTS ============== -->
 <h2 align="center">🚀 Proyectos destacados · Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/RichardDebugFile/IA_Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardDebugFile&repo=IA_Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  </a>
-  <a href="https://github.com/RichardDebugFile/BusquedaSRI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardDebugFile&repo=BusquedaSRI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/RichardDebugFile/ChatIA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardDebugFile&repo=ChatIA&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  </a>
-  <a href="https://github.com/RichardDebugFile/camel-saludvital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardDebugFile&repo=camel-saludvital&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/RichardDebugFile/PositsEnPython">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardDebugFile&repo=PositsEnPython&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  </a>
-  <a href="https://github.com/RichardDebugFile/MST-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardDebugFile&repo=MST-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 <a href="https://github.com/RichardDebugFile/IA_Assistant">IA_Assistant</a>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/RichardDebugFile/IA_Assistant?style=flat-square&color=58A6FF)
+
+VTuber IA · compañero / asistente virtual.
+<br/>VTuber AI · virtual companion / assistant.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏛️ <a href="https://github.com/RichardDebugFile/BusquedaSRI">BusquedaSRI</a>
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Stars](https://img.shields.io/github/stars/RichardDebugFile/BusquedaSRI?style=flat-square&color=58A6FF)
+
+API Gateway → datos persona, vehículo, puntos licencia (SRI Ecuador).
+<br/>API Gateway → person, vehicle, license points (SRI Ecuador).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💬 <a href="https://github.com/RichardDebugFile/ChatIA">ChatIA</a>
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Stars](https://img.shields.io/github/stars/RichardDebugFile/ChatIA?style=flat-square&color=58A6FF)
+
+Twitch + YouTube chat unificado, potenciado por IA.
+<br/>Unified Twitch + YouTube chat, AI-powered.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐫 <a href="https://github.com/RichardDebugFile/camel-saludvital">camel-saludvital</a>
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Stars](https://img.shields.io/github/stars/RichardDebugFile/camel-saludvital?style=flat-square&color=58A6FF)
+
+Integración de sistemas con Apache Camel.
+<br/>Systems integration with Apache Camel.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎯 <a href="https://github.com/RichardDebugFile/PositsEnPython">PositsEnPython</a>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/RichardDebugFile/PositsEnPython?style=flat-square&color=58A6FF)
+
+App de productividad gamificada.
+<br/>Gamified productivity app.
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 <a href="https://github.com/RichardDebugFile/MST-Analysis">MST-Analysis</a>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/RichardDebugFile/MST-Analysis?style=flat-square&color=58A6FF)
+
+Análisis de grafos · Minimum Spanning Tree.
+<br/>Graph analysis · Minimum Spanning Tree.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
